@@ -8,11 +8,12 @@ Technologies Used 💻
  EJS Templating with JavaScript
  
  Backend:
- Express.js
- Node.js
+ Express.js, 
+ Node.js, 
  PostgreSQL
 
 Installation 🛠️
+
 Follow these steps to set up and run the PERN Family-Travel-Tracker locally:
 
 1. Clone the Repository:
