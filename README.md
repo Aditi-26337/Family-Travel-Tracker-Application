@@ -22,11 +22,10 @@ Follow these steps to set up and run the PERN Family-Travel-Tracker locally:
    cd family-travel-tracker
 3. Install Dependencies:
    npm install
-4. Set Up Environment Variables: Create a .env file in the root directory and configure environment variables, including database connection details and secret keys.
-5. Database Setup: Set up your PostgreSQL database and update the connection details in the .env file.
-6. Start the Application:
+4. Database Setup: Put the postgres password in index.js to setup the connection with database.
+5. Start the Application:
    npm start
-7. Run the Application :
+6. Run the Application :
    nodemon index.js
    
 The application will be accessible at http://localhost:3000 by default.
