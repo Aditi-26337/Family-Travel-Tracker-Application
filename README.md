@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Family Travel Tracker is a Web application developed using the PostgreSQL, Express, Node.js, and EJS. It allows the uses to  keep track of all the countries you and your family have visited.
 
 
@@ -29,3 +30,7 @@ Follow these steps to set up and run the PERN Family-Travel-Tracker locally:
    nodemon index.js
    
 The application will be accessible at http://localhost:3000 by default.
+=======
+# Family-Travel-Tracker-Application
+A web application developed using the PostgreSQL, Express, Node.js, and EJS which allows you to easily keep track of all the countries you and your family have visited.
+>>>>>>> main
